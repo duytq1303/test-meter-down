@@ -1,2 +1,5 @@
 .DS_Store
 /*.log
+.babelrc
+yarn.lock
+node_modules
